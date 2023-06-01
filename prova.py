@@ -11,3 +11,10 @@ print('b =',b)
 print('a+b =',a+b)
 
 # Modifica di prova
+
+# %%
+print("Nathan rabbino")
+nome = "Valerio"
+
+print(nome)
+# %%
